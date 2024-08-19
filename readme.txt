@@ -1,6 +1,3 @@
-Get PRO Here:
-https://templatesjungle.gumroad.com/l/jubilee-free-bootstrap-5-html-website-template-for-online-course
-
 It is a free HTML CSS template by TemplatesJungle.com
 You can use this template as a starter template and start building as you require.
 
